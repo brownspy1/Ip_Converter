@@ -22,7 +22,7 @@ This tool is provided as-is and may contain bugs or issues. The developer (Mahad
 ## Credits
 
 - Developer: Mahadi
-- Contact: [Your Contact Information]
+- Contact: [brownspy1@protonmail.com](mailto:brownspy1@protonmail.com)
 
 ## License
 
