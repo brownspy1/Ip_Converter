@@ -1,6 +1,6 @@
 # IP Converter Tool
 
-![Tool Screenshot](screenshot.png)
+![Tool Screenshot](Screenshot 2023-08-27 234852.png)
 
 ## Description
 
@@ -13,20 +13,7 @@ The IP Converter Tool is a simple utility that allows users to convert IP addres
 - Easy-to-use graphical interface.
 - Windows executable for convenient usage.
 
-## Screenshots
 
-Here are a few screenshots of the IP Converter Tool in action:
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-
-## Usage
-
-1. Download the Windows executable file `IP_Converter.exe` from the repository.
-2. Run the executable to launch the IP Converter Tool.
-3. Enter the IP address you want to convert in the provided input field.
-4. Choose the desired format for the conversion (IPv4 or IPv6).
-5. Click the "Convert" button to see the converted IP address in the selected format.
 
 ## Disclaimer
 
