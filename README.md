@@ -1,6 +1,6 @@
 # IP Converter Tool
 
-![Tool Screenshot]([Screenshot 2023-08-27 234852.png](https://github.com/brownspy1/Ip_Converter/blob/main/Screenshot%202023-08-27%20234852.png))
+![Tool Screenshot](https://github.com/brownspy1/Ip_Converter/blob/main/Screenshot%202023-08-27%20234852.png)
 
 ## Description
 
@@ -13,8 +13,6 @@ The IP Converter Tool is a simple utility that allows users to convert IP addres
 - Easy-to-use graphical interface.
 - Windows executable for convenient usage.
 
-
-
 ## Disclaimer
 
 This tool is provided as-is and may contain bugs or issues. The developer (Mahadi) is not responsible for any data loss or damage caused by using this tool. Use at your own risk.
@@ -24,6 +22,3 @@ This tool is provided as-is and may contain bugs or issues. The developer (Mahad
 - Developer: Mahadi
 - Contact: [brownspy1@protonmail.com](mailto:brownspy1@protonmail.com)
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
